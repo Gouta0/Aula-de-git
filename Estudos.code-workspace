@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../projetos"
+		},
+		{
+			"path": "../../../../../../projetos/desenvolvimento/backend-api-nodejs"
+		}
+	],
+	"settings": {}
+}
